@@ -31,7 +31,7 @@ const cdnData: Record<string, { file: string; url: string; alt: string }[]> = {
   portrait: [
     { file: "FS-P03-teal-wall.jpg", url: "https://v3b.fal.media/files/b/0a945f0b/bMaokIwwq9mg6-4KQiNJK_FS-P03-teal-wall.jpg", alt: "Teal wall portrait" },
     { file: "FS-P04-bw-rembrandt.jpg", url: "https://v3b.fal.media/files/b/0a945f0b/HOEcyBAm514mO3JfdtJbl_FS-P04-bw-rembrandt.jpg", alt: "Black and white Rembrandt lighting" },
-    { file: "FS01-dewy-beauty.jpg", url: "https://v3b.fal.media/files/b/0a945f0b/BCcyEe6S2db-wOMfeZVxy_FS01-dewy-beauty.jpg", alt: "Dewy beauty" },
+    { file: "FS01-dewy-beauty.jpg", url: "https://v3b.fal.media/files/b/0a97d23d/5gopByIGfQZEqdLDovglt_f56959c9321740dea720d557e7d06b1f.jpg", alt: "Dewy beauty" },
     { file: "FS02-moody-dramatic.jpg", url: "https://v3b.fal.media/files/b/0a945f0b/0GWcKFv5HUWcjmql8XXvJ_FS02-moody-dramatic.jpg", alt: "Moody dramatic portrait" },
   ],
   travel: [
