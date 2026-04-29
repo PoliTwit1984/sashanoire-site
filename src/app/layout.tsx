@@ -14,17 +14,17 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Sasha Noire",
-  description: "Confident. Raw. Unfiltered.",
+  description: "AI portrait artist. Bold. Raw. Beautiful.",
   openGraph: {
     title: "Sasha Noire",
-    description: "Confident. Raw. Unfiltered.",
+    description: "AI portrait artist. Bold. Raw. Beautiful.",
     type: "website",
     url: "https://sashanoire.com",
   },
   twitter: {
     card: "summary_large_image",
     title: "Sasha Noire",
-    description: "Confident. Raw. Unfiltered.",
+    description: "AI portrait artist. Bold. Raw. Beautiful.",
   },
 };
 
